@@ -24,6 +24,7 @@ button{
 }
 button:hover{
     opacity: 0.9;
+    cursor:pointer;
 }
 .outside{
     height:100vh;
@@ -41,6 +42,7 @@ button:hover{
     flex-direction: column;
     width:50vw;
     height:auto;
+    max-height:95vh;
     overflow:hidden;
     border-radius: 8px;
     /* opacity:.8; */
