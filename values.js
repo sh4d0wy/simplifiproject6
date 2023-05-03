@@ -7,7 +7,7 @@ function guessTheNum(){
     count=0;
     flag=false;
     while(count<5){
-        var y = Math.floor((Math.random()*5)+1);
+        var y = Math.floor((Math.random()*100)+1);
         var para=document.createElement('h2');
         if(x==y){
             var node = document.createTextNode('Your number is '+y);
