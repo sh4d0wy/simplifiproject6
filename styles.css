@@ -10,6 +10,7 @@ body{
 }
 
 button{
+    margin-bottom:60px;
     border-radius: 10px;
     width:25%;
     padding:10px 40px;
@@ -32,13 +33,14 @@ button:hover{
     align-items: center;
 }
 .container{
+    margin:20px 0;
     background:white;
     display:flex;
     justify-content: flex-start;
     align-items:center;
     flex-direction: column;
     width:50vw;
-    height:85vh;
+    height:auto;
     overflow:hidden;
     border-radius: 8px;
     /* opacity:.8; */
@@ -77,4 +79,5 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
     align-items:center;
+    margin:10px;
 }
