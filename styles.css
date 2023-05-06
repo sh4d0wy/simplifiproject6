@@ -49,7 +49,7 @@ button:hover{
 }
 .container h1{
     margin:40px 0 20px 0px;
-    font-size:50px;
+    font-size:2.5rem;
     font-family: 'Bruno Ace', cursive;
     font-weight:10px;
 }
@@ -79,7 +79,7 @@ input::-webkit-inner-spin-button {
 h2{
     color:#047e4b   ;
     font-family: 'Poppins', sans-serif;
-    font-size: 2vw;
+    font-size: 1.3rem;
     align-items:center;
     margin:10px;
 }
